@@ -18,3 +18,20 @@ D1.random numbers
 D1.remove duplicate numbers from sorted array
 D1.remove vowels from a string
 D1.sum of digits of N digits
+D2.adding two members
+D2.airthemetic operations
+D2.area of 2D diagrams
+D2.area of square,rectangle,circle
+D2.average marks and grades of students
+D2.binary to octal
+D2.class vector
+D2.count of no.of numbers inside a bank
+D2.decimal to binary and octal
+D2.employee salary details
+D2.friend functionwise department list
+D2.generate electricity bill
+D2.mark of student
+D2.reverse order of number
+D2.simple intrest
+D2.sum of fibinocci series
+
