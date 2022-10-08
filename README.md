@@ -33,5 +33,13 @@ D2.generate electricity bill
 D2.mark of student
 D2.reverse order of number
 D2.simple intrest
-D2.sum of fibinocci series
+D3. area of square and rectangle
+D3. degree class
+D3. student class
+D3. class rectangle
+D3 . piggy bank
+D3 . class to print int and char
+D3. student with 3 datamembers
+D3. printnum
+ 
 
