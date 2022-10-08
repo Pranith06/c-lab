@@ -33,13 +33,28 @@ D2.generate electricity bill
 D2.mark of student
 D2.reverse order of number
 D2.simple intrest
-D3. area of square and rectangle
-D3. degree class
-D3. student class
-D3. class rectangle
-D3 . piggy bank
-D3 . class to print int and char
-D3. student with 3 datamembers
-D3. printnum
+D3.swapping
+D3.RBI.cpp
+D3.area of rectangle and square
+D3.area of rectangle
+D3.banking
+D3.graduation
+D3.i love cpp
+D3.name,age,address of 10 students
+D3.piggie bank
+D3.print an integer and character
+D3.print number
+D3.printing number
+D3.students class
+D4. no.of fruits in basket
+D4.area of circle
+D4.average marks of class
+D4.hybrid inheritence
+D4.marks of students multilevel inheritence
+D4.sum and product using single inheritence
+D4.sum of integers in array
+D4.updating accounts
+
+
  
 
