@@ -33,6 +33,8 @@ D2.generate electricity bill
 D2.mark of student
 D2.reverse order of number
 D2.simple intrest
+D2. comparing of 2 strings
+D2. smaller number from given number
 D3.swapping
 D3.RBI.cpp
 D3.area of rectangle and square
